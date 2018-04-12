@@ -9,7 +9,7 @@
 # *part 1 focus on rainfall
 
 
-# Simple example of reader, tidyr, dplyr: Rainfall -----
+# Simple example of readr, tidyr, dplyr: Rainfall -----
 
 
 # See what original rainfall data look like 
